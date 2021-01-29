@@ -11,3 +11,16 @@ C:\Users\Butch\source\repos\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\ne
 C:\Users\Butch\source\repos\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.dll
 C:\Users\Butch\source\repos\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.pdb
 C:\Users\Butch\source\repos\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.genruntimeconfig.cache
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.exe
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.deps.json
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.runtimeconfig.json
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.runtimeconfig.dev.json
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.dll
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\bin\Debug\netcoreapp3.1\Lab2-RoomCalculator.pdb
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.csprojAssemblyReference.cache
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.AssemblyInfo.cs
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.dll
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.pdb
+C:\Users\Butch\source\repos\Labs\Lab2-RoomCalculator\Lab2-RoomCalculator\obj\Debug\netcoreapp3.1\Lab2-RoomCalculator.genruntimeconfig.cache

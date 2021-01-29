@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Butch\\source\\repos\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj": {}
+    "C:\\Users\\Butch\\source\\repos\\Labs\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Butch\\source\\repos\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj": {
+    "C:\\Users\\Butch\\source\\repos\\Labs\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Butch\\source\\repos\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Butch\\source\\repos\\Labs\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj",
         "projectName": "Lab2-RoomCalculator",
-        "projectPath": "C:\\Users\\Butch\\source\\repos\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj",
+        "projectPath": "C:\\Users\\Butch\\source\\repos\\Labs\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\Lab2-RoomCalculator.csproj",
         "packagesPath": "C:\\Users\\Butch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Butch\\source\\repos\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Butch\\source\\repos\\Labs\\Lab2-RoomCalculator\\Lab2-RoomCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Butch\\AppData\\Roaming\\NuGet\\NuGet.Config",

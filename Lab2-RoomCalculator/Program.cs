@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lab2_RoomCalculator
 {
@@ -18,6 +19,7 @@ namespace Lab2_RoomCalculator
         static void Main(string[] args)
         {
             string proceed = "y";
+            List<Dimension> dimensions = new List<Dimension>();
 
             Console.WriteLine("Welcome to the Grand Circus Room Detail Generator!");
 
@@ -34,11 +36,13 @@ namespace Lab2_RoomCalculator
                 // Get user input for Height
                 Console.Write("Enter Height: ");
                 double height = double.Parse(Console.ReadLine());
-                
+
+
                 // Display Area & Perimeter
-                Console.WriteLine($"Area: {Math.Round((length * width), 2)}");
-                Console.WriteLine($"Perimeter: {Math.Round(2 * (length + width), 2)}");
-                Console.WriteLine($"Volume: {Math.Round(length * width * height, 2)}");
+                dimensions.Add(new Dimension(length, width, height));
+                //Console.WriteLine($"Area: {Math.Round((length * width), 2)}");
+                //Console.WriteLine($"Perimeter: {Math.Round(2 * (length + width), 2)}");
+                //Console.WriteLine($"Volume: {Math.Round(length * width * height, 2)}");
 
                 // Ask if user wants to continue
                 Console.Write("\nContinue? (y/n) ");
